@@ -11,6 +11,7 @@ main{
      width: min-content;
     text-align: left;
     margin-left: auto;
+    margin-rigth: auto;
 }
 img{
     width: 620px;
